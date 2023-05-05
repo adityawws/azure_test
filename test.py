@@ -4,4 +4,5 @@ def hello():
   z = x + y
   return z
 
-hello()
+a = hello()
+print(a)
