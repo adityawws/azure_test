@@ -3,6 +3,5 @@ def hello():
   y = 2
   z = x + y
   return z
-
 a = hello()
 print(a)
